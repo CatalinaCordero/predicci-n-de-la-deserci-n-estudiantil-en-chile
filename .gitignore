@@ -47,3 +47,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+git lfs install
+git lfs track "archivo-grande.ext"
+
